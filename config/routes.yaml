@@ -1,0 +1,14 @@
+controllers:
+    resource: ../src/Controller/
+    type: attribute
+#react_app:
+#    path: /
+#    controller: App\Controller\SpaController::index
+#api_employee:
+#    path: /api/employee
+#    controller: App\Controller\EmployeeController::addEmployee
+#    methods: ['POST']
+#list_employee:
+#    path: /api/employee
+#    controller: App\Controller\EmployeeController::index
+#    methods: ['GET']
